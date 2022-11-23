@@ -30,15 +30,15 @@ assignees: mirzahikmatyar
 - Reheck that the content document is complete and fixed before adding  task to  to-do list (design mockup per page, content per page, additional request details, etc.) 
 
 ## Checklist Client's Who Has Domain & Hosting
-* Is it possible to delete existing website content? 
+* Can we delete existing website content? 
   - [ ] Yes
   - [ ] No
-* Is domain has pointed to NH Hosting? 
+* Is the domain pointed to NH Hosting? 
   - [ ] Yes
   - [ ] No
-* Is the client using email hosting? If Yes, please ensure that it is pointed to the hosting provider. 
+* Is the client using email hosting? If Yes, please ensure the domain is pointed to the hosting provider. 
   - [ ] Yes
   - [ ] No
-* Is clients have spesific concept (figma, jpg, png, .ppt or other), feature requirements, explanation of each page & other? If Yes, please described on additional information 
+* Does our client has spesific concept (figma, jpg, png, .ppt or other), feature requirements, explanation of each page & others? If Yes, please describe on additional information section.
   - [ ] Yes
   - [ ] No
