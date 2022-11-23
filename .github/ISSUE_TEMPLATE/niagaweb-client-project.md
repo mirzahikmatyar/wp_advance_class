@@ -8,7 +8,7 @@ assignees: mirzahikmatyar
 ---
 ## Information
 * Email :  *name@email.com*
-* Link PMX : *please input invoice link*
+* Link Invoice : *please input invoice link*
 * Domain Name : *domainname.com*
 * Package : *Company Profile/Online Shop*
 
@@ -20,6 +20,8 @@ assignees: mirzahikmatyar
   - *Services*
   - *Contact Us*
 * Add-On Services : *add-on will be used for website*
+#### Notes
+- If client use multilanguage add-on, please inform origin language and destination language that will use on website
 
 ## Additional Information
 * Additional Notes : *If client has any special requests, please described detail request here*
